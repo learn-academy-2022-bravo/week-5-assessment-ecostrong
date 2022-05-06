@@ -7,7 +7,11 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is a hash in Ruby?
 
-  Your answer: A hash is a key in ruby. It can be used to tag a collection of data.
+  Your answer: A hash is a key in ruby. It can be used to tag a collection of data. 
+  A key is like a library of data points that is being refered to in Ruby. For example
+  we see # hashtages on instagram, this pulls all related data points in that category. 
+  Hastage # cats, or #CodingisFun
+
 
   Researched answer: 
 
@@ -34,6 +38,7 @@ This is a Hash Rocket =>
 2. What is a gem?
 
   Your answer: A gem in ruby is a package of code that is installed on your terminal, it is like reference library. 
+  You need to install a gem in your terminal before running the ruby code. The Gem is a library of key formating. 
 
   Researched answer: A Ruby Gem is a package manager for the Ruby Programming language. Gems provide standard formating 
   for the Ruby program and libraries in a format called "Gems" 
@@ -63,6 +68,8 @@ gem_name/
 3. What is Ruby on Rails?
 
   Your answer: Ruby on Rails was created for the programming language Ruby. It creates web apps. 
+  Ruby on Rails is a framework. I have used Ruby on Rails in class. It is a connector to the server to 
+  display code in the web browser. 
 
   Researched answer: 
 
@@ -85,6 +92,9 @@ THe Controller- conects the View and the logic of the app
 4. What is a relational database? Are there other kinds of databases?
 
   Your answer: A relational database contains tables with rows and columns. 
+  I have worked with over 30 databases in the past in the Army to manage personnel, operations, logistics. 
+  I learned good data and real data is so important. At learn academy, I learned how to create databases in PostgreSQL and 
+  PG Admiin. 
 
   Researched answer: A relational databse is a collection of information that is organized into data points. They have been around since the 
   1970's. Structured Query Language SQL is the most common for readding, creating, and updating, and deleting data. Relational databases are 
